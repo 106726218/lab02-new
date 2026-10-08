@@ -89,6 +89,10 @@ a {
     color: black;
 }
 
+a.email:hover {
+    color: yellow;
+}
+
 #images {
     text-align: center;
 }
